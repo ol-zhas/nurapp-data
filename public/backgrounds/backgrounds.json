@@ -1,0 +1,17 @@
+[
+  {
+    "id": "whitemosque",
+    "name": "Белая мечеть",
+    "url": "https://nurapp-data.pages.dev/backgrounds/whitemosque.jpg"
+  },
+  {
+    "id": "abudabi",
+    "name": "Абу-Даби",
+    "url": "https://nurapp-data.pages.dev/backgrounds/abudabi.jpg"
+  },
+  {
+    "id": "darkmosque",
+    "name": "Тёмная мечеть",
+    "url": "https://nurapp-data.pages.dev/backgrounds/darkmosque.jpg"
+  }
+]
